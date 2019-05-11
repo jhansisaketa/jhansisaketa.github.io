@@ -1,9 +1,9 @@
 JHANSI SAKETA
 ===============
 
-jhansi saketa /n
-Anurag Group Of Institutions /n
-jhansisaketa@ieee.org
+- jhansi saketa 
+- Anurag Group Of Institutions 
+- jhansisaketa@ieee.org
 
 
 
