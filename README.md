@@ -1,11 +1,16 @@
 JHANSI SAKETA
 ==============
+
+
 ~~~
-{}{img_left}{jhansi.jpeg}{alt text}{10px}{10px}{IMGLINKTARGET}
+{}{img_left}{jhansi.jpeg}{alt text}{244.8px}{340px}{}
 jhansi saketa 
 Anurag Group Of Institutions
 jhansisaketa@ieee.org
 ~~~
+
+
+
 PROFILE SUMMARY
 ================
 - I B V Jhansi Saketa pursuing B-TECH from Compute Science Engineering in Anurag Group of
