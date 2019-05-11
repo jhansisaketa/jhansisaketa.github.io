@@ -1,12 +1,9 @@
+JHANSI SAKETA
+===============
 
-
-
-~~~
-{}{img_left}{jhansi.jpeg}{alt text}{244.8px}{340px}{}
 jhansi saketa 
 Anurag Group Of Institutions
 jhansisaketa@ieee.org
-~~~
 
 
 
